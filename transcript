@@ -1,0 +1,13 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile C:/Users/PMLS/Desktop/RISCVPIPELINE/RISC_V_Datapath.v
+vlib work
+vlog -reportprogress 300 -work work C:/Users/PMLS/Desktop/RISCVPIPELINE/RISC_V_Datapath.v
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:04:18 on May 29,2024
+# vlog -reportprogress 300 -work work C:/Users/PMLS/Desktop/RISCVPIPELINE/RISC_V_Datapath.v 
+# -- Compiling module RISC_V_Datapath
+# 
+# Top level modules:
+# 	RISC_V_Datapath
+# End time: 13:04:18 on May 29,2024, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
